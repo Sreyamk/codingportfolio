@@ -22,6 +22,9 @@ I'm passionate about Python programming and constantly exploring new concepts an
 Currently looking for opportunities to apply my skills and grow through internships and real-world projects!
 
 
+## 🚀 Team Projects
+- [Hackathon 2024 -A CAREER GUIDANCE WEBSITE (https://github.com/jundu-dev/smart-waste-management)
+
 
 🎯 Future Goals
  Upload all existing Python programs 
@@ -33,3 +36,6 @@ Currently looking for opportunities to apply my skills and grow through internsh
  Learn libraries like NumPy, Pandas 📊
 
 📣 Thank you for checking out my work!
+
+
+
