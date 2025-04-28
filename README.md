@@ -27,6 +27,7 @@ Currently looking for opportunities to apply my skills and grow through internsh
 
 
 🎯 Future Goals
+
  Upload all existing Python programs 
 
  Build 1 mini Python project per month 
