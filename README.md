@@ -1,44 +1,35 @@
-Description
-This Python program merges two lists by inserting the second list into the first list starting immediately after the original elements of the first list.
 
-It first takes the size of the first list (li1) as input.
+Welcome to my Python Coding Portfolio!
+This repository contains all the Python programs, practice problems, and mini-projects I have worked on during my coding journey. 
 
-Then, it takes input values for the first list (li1) and the second list (li2).
+📚 Contents
+🐍 Python Programs
 
-Finally, it copies all elements from the second list (li2) into the first list (li1) starting after the original elements of li1.
+✏️ Practice Problems
 
-⚡ Important:
+📈 Learning experiments and exercises
 
-The first list li1 must have enough extra space allocated initially to hold the new elements.
-Otherwise, you will get an IndexError because Python lists don't automatically expand like arrays in C.
+🛠️ Skills Demonstrated
+Programming Language: Python
 
-How to Run
-Make sure you have Python installed.
+Concepts: Problem Solving, Basic Algorithms, Functions, Loops, Data Types
 
-Save the code in a file, say merge_lists.py.
+Tools: Git, GitHub, VS Code, PyCharm
 
-Run the script:
+📌 About Me
+Hi, I'm SREYA👋
+I'm passionate about Python programming and constantly exploring new concepts and ideas.
+Currently looking for opportunities to apply my skills and grow through internships and real-world projects!
 
-bash
-Copy
-Edit
-python merge_lists.py
-Input the values as the program prompts.
 
-Example
-bash
-Copy
-Edit
-enter size of l1 3
-1 2 3
-4 5 6 7
-li1 = [1, 2, 3]
 
-li2 = [4, 5, 6, 7]
+🎯 Future Goals
+ Upload all existing Python programs 
 
-After merging, the output will be:
+ Build 1 mini Python project per month 
 
-csharp
-Copy
-Edit
-[1, 2, 3, 4, 5, 6, 7]
+ Solve 100 Python problems on coding platforms 
+
+ Learn libraries like NumPy, Pandas 📊
+
+📣 Thank you for checking out my work!
