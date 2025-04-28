@@ -23,7 +23,7 @@ Currently looking for opportunities to apply my skills and grow through internsh
 
 
 ## 🚀 Team Projects
-- [Hackathon 2024 -A CAREER GUIDANCE WEBSITE (https://github.com/jundu-dev/smart-waste-management)
+- [Hackathon 2024 -A CAREER GUIDANCE WEBSITE GUIDER (https://github.com/Sreyamk/hackhive)
 
 
 🎯 Future Goals
